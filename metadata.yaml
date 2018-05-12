@@ -1,0 +1,40 @@
+_repo: The-Russian-Garland-Being-Russian-Folk-Tales_30109
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rosciszewski, J. R. de
+    gutenberg_agent_id: '34375'
+    url: http://www.gutenberg.org/2009/agents/34375
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Steele, Robert Reynolds
+    gutenberg_agent_id: '34383'
+    url: http://www.gutenberg.org/2009/agents/34383
+description: ''
+gutenberg_issued: '2009-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Tales -- Russia'
+- !lcsh 'Fairy tales -- Russia'
+tableOfContents: Story of Lyubim Tsarevich and the winged wolf -- Story of the most
+  wonderful and noble self-playing harp -- The seven brothers Simeon -- Story of Ivan,
+  the peasant's son -- Story of the golden mountain -- Iliya of Murom and the robber
+  nightingale -- The renowned hero, Bova Korolevich and the Princess Drushnevna --
+  The mild man and his cantankerous wife -- Story of the duck with golden eggs --
+  Story of Bulat the brave companion -- Story of Prince Malandrach and the Princess
+  Salikalla -- Story of a shoemaker and his servant Prituitshkin -- Emelyan, the fool
+  -- The judgment of Shemyaka -- Story of Prince peter with the golden keys, and the
+  Princess Magilene -- Sila Tsarevich and Ivashka and the white smock -- Story of
+  the knight Yaroslav Lasarevich and the Princess Anastasia.
+title: The Russian Garland, Being Russian Folk Tales
+url: http://www.gutenberg.org/ebooks/30109
