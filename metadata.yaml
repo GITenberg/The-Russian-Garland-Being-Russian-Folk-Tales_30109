@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34383'
     url: http://www.gutenberg.org/2009/agents/34383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30109#The-Russian-Garland-Being-Russian-Folk-Tales
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
 identifiers:
